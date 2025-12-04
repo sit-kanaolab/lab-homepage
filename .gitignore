@@ -1,0 +1,23 @@
+# Local Node
+.node/
+
+# Next.js app in app/
+app/node_modules/
+app/.next/
+app/.turbo/
+app/.vercel/
+app/npm-debug.log*
+app/yarn-error.log*
+app/pnpm-debug.log*
+
+# Env and logs
+*.log
+.env
+.env.local
+.env.*.local
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
